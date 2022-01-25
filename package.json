@@ -35,7 +35,7 @@
     "debug": "^4.3.3",
     "execa": "^5.1.1",
     "lilconfig": "2.0.4",
-    "listr2": "^3.13.5",
+    "listr2": "^3.14.0",
     "micromatch": "^4.0.4",
     "normalize-path": "^3.0.0",
     "object-inspect": "^1.12.0",
